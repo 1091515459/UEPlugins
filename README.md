@@ -1,2 +1,6 @@
-# ue.updateclient
-updateclient
+# UEPlugins
+##paktool
+##scenetool
+##shader
+##thinguserdata
+##updateclient
